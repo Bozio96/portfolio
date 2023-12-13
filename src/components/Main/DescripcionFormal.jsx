@@ -5,10 +5,10 @@ export default function DescripcionFormal() {
   return (
     <article className="descripcionFormal">
       <div className="txtDescripcionPersonal">
-        <h3>Hola!...</h3>
+        <h3>Hola!</h3>
         <p>
-          ...me llamo Rodrigo Bozio. Soy estudiante de Ingeniería en Sistemas
-          llegando hasta el tercer (3) año inclusive de la carrera.
+          Me llamo Rodrigo Bozio. Actualmente estudio Ingeniería en Sistemas
+          hasta el tercer (3) año inclusive.
         </p>
         <p>
           Como extra a los estudios universitarios realicé un curso de
@@ -17,10 +17,10 @@ export default function DescripcionFormal() {
           calificaciones.
         </p>
         <p>
-          Dado que soy una persona innovadora y obstinada, me incliné por el
+          Me incliné por el
           área de desarrollo, no solo limitado a web, sino que mis intereses
-          abarcan mucho más. Me gusta aprender de todo, soy demasiado
-          perseverante.
+          abarcan mucho más. Soy demasiado
+          perseverante. Me considero una persona innovadora y obstinada. 
         </p>
       </div>
 

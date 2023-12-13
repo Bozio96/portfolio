@@ -17,11 +17,11 @@ export default function Proyectos() {
       path: "https://967-cerveteca-react.vercel.app/",
       desc: "Proyecto realizado con React, DB en Firebase NO DISPONIBLE por el momento",
     },
-    {
-      title: "Access Idiomas",
-      path: "#",
-      desc: "Proyecto SPA, LandingPage de Access Idiomas",
-    },
+    // {
+    //   title: "Access Idiomas",
+    //   path: "#",
+    //   desc: "Proyecto SPA, LandingPage de Access Idiomas",
+    // },
   ];
 
   return (
