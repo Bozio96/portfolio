@@ -45,14 +45,13 @@ export default function DescripcionFormal() {
       <div className="aptitudes">
         <h3>Aptitudes</h3>
         <ul>
-          <li>Inglés A1-A2</li>
           <li>Node Js</li>
           <li>React Js</li>
           <li>Material UI</li>
           <li>Express Js</li>
           <li>MongoDb</li>
           <li>Git</li>
-          <li>Github</li>
+          <li>Inglés A1-A2</li>
         </ul>
       </div>
     </article>
