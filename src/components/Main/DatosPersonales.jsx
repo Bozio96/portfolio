@@ -10,7 +10,7 @@ export default function DatosPersonales() {
       </div> */}
       <div className="fotoMia">
         <img
-          src="https://res.cloudinary.com/dnfil5isx/image/upload/v1703786039/WhatsApp_Image_2023-12-28_at_14.52.48_vwnifm.jpg"
+          src="https://res.cloudinary.com/dnfil5isx/image/upload/v1706555595/WhatsApp_Image_2024-01-29_at_15.34.00_1_vsppl5.jpg"
           alt="Foto de perfil"
         />
       </div>
