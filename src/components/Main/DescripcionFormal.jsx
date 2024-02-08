@@ -47,6 +47,7 @@ export default function DescripcionFormal() {
         <ul>
           <li>Node Js</li>
           <li>React Js</li>
+          <li>Next Js</li>
           <li>Material UI</li>
           <li>Express Js</li>
           <li>MongoDb</li>
