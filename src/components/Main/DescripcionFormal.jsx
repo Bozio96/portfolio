@@ -7,7 +7,7 @@ export default function DescripcionFormal() {
       <div className="txtDescripcionPersonal">
         <h3>Hola!</h3>
         <p>
-          Me llamo Rodrigo Bozio, tengo 27 años. Actualmente estudio Ingeniería en Sistemas
+          Me llamo Rodrigo Bozio, tengo 28 años. Actualmente estudio Ingeniería en Sistemas
           hasta el tercer (3) año inclusive.
         </p>
         <p>

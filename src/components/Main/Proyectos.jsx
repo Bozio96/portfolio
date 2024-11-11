@@ -12,11 +12,11 @@ export default function Proyectos() {
       path: "https://bozio96.github.io/Bozio96-967-Cerveteca-EComerce/",
       desc: "E-Commerce creado en JS Vanilla sin React",
     },
-    {
+ /*    {
       title: "967Cerveteca React",
       path: "https://967-cerveteca-react.vercel.app/",
       desc: "Proyecto realizado con React, DB en Firebase NO DISPONIBLE por el momento",
-    },
+    }, */
     // {
     //   title: "Access Idiomas",
     //   path: "#",
