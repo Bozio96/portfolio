@@ -12,6 +12,11 @@ export default function Proyectos() {
       path: "https://bozio96.github.io/Bozio96-967-Cerveteca-EComerce/",
       desc: "E-Commerce creado en JS Vanilla sin React",
     },
+    {
+      title: "Sistema de ventas ABM genérico (...en proceso)",
+      path: "https://github.com/Bozio96/sistemaDeVentas",
+      desc: "Un sistema para manipular productos, clientes y ventas, típico de cualquier negocio, en formato web"
+    }
  /*    {
       title: "967Cerveteca React",
       path: "https://967-cerveteca-react.vercel.app/",

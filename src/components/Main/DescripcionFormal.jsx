@@ -49,10 +49,11 @@ export default function DescripcionFormal() {
           <li>React Js</li>
           <li>Next Js</li>
           <li>Material UI</li>
+          <li>Tailwind</li>
           <li>Express Js</li>
           <li>MongoDb</li>
           <li>Git</li>
-          <li>Inglés A1-A2</li>
+          <li>Inglés A2</li>
         </ul>
       </div>
     </article>
