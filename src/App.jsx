@@ -1,19 +1,18 @@
 import DatosPersonales from "./components/Main/DatosPersonales";
 import Proyectos from "./components/Main/Proyectos";
 import DescripcionFormal from "./components/Main/DescripcionFormal";
-import Nav from "./components/Header/Nav";
+import { Box, CssBaseline } from "@mui/material";
 
 function App() {
   return (
     <>
-      {/* <Nav /> */}
-      <main>
-        <div className="container">
-          <DatosPersonales />
-          <DescripcionFormal />
-          <Proyectos />
-        </div>
-      </main>
+    {/* CssBaseline elimina todos los margenes y paddings por defecto del navegador */}
+    <CssBaseline/>
+    <Box sx={{ backgroundColor: "rgb(31, 31, 31)", width: "100vw"}}>
+        <DatosPersonales/>
+        <DescripcionFormal/>
+        <Proyectos/>   
+    </Box>
     </>
   );
 }
