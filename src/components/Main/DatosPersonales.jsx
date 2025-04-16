@@ -15,7 +15,7 @@ import {
 
 export default function DatosPersonales() {
   return (
-    <Container sx={{ p: 2 }}>
+    <Container sx={{ p: 2}}>
       {/* <div className="logo">
         <img src="https://res.cloudinary.com/dnfil5isx/image/upload/v1702329663/IMG-20210509-WA0027-removebg-preview_wbkzyv.png" alt="logo" />
         </div> */}

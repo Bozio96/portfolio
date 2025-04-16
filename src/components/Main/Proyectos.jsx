@@ -45,7 +45,7 @@ export default function Proyectos() {
   ];
 
   return (
-    <Container sx={{ backgroundColor: "rgb(17, 17, 17)", py: 5, mt: 5 }}>
+    <Container sx={{ backgroundColor: "rgb(17, 17, 17)", py: 5, mt: 5 , borderRadius: '20px'}}>
       <Typography
         variant="h3"
         color="rgb(255,255,255)"

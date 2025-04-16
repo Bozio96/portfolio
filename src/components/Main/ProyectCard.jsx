@@ -12,7 +12,7 @@ export default function ProyectCard({ props }) {
     <Card
       sx={{
         bgcolor: "transparent",
-        border: "2px solid rgb(49, 123, 234)",
+        border: "1px solid rgb(48, 48, 48)",
         color: "#ffffff",
         flexBasis: {
           xs: "100%", // 1 por fila
@@ -27,7 +27,9 @@ export default function ProyectCard({ props }) {
         minHeight: "300px",
         margin: "20px 0px",
         transition: "0.2s",
-        "&:hover": { transform: "scale(1.01)" },
+        "&:hover": { transform: "scale(1.01)",
+          border: "1px solid rgb(87, 123, 243)"
+         },
       }}
     >
       <CardActionArea>
