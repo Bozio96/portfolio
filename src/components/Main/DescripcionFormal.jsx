@@ -442,7 +442,7 @@ export default function DescripcionFormal() {
               icon={faLanguage}
               style={{ color: "rgb(255, 255, 255)", fontSize: "35px" }}
             />
-            <Typography color="white">Inglés A2</Typography>
+            <Typography color="white">Inglés B1</Typography>
           </Box>
         </Box>
       </Box>
@@ -577,7 +577,207 @@ export default function DescripcionFormal() {
             </svg>
             <Typography color="white">TypeScript</Typography>
           </Box>
-          {/* Ingles B1 */}
+          {/* C# */}
+          <Box
+            display="flex"
+            alignItems="center"
+            gap={1}
+            sx={{
+              flex: "1 1 200px",
+              maxWidth: "250px",
+              padding: 2,
+              backgroundColor: "rgba(255,255,255,0.05)",
+              borderRadius: 2,
+              transition: "all 0.3s ease",
+              "&:hover": {
+                backgroundColor: "rgba(255,255,255,0.1)",
+                transform: "scale(1.01)",
+                boxShadow: "0 2px 8px rgba(0,0,0,0.2)",
+              },
+            }}
+          >
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128">
+              <path
+                fill="#9B4F96"
+                d="M115.4 30.7L67.1 2.9c-.8-.5-1.9-.7-3.1-.7-1.2 0-2.3.3-3.1.7l-48 27.9c-1.7 1-2.9 3.5-2.9 5.4v55.7c0 1.1.2 2.4 1 3.5l106.8-62c-.6-1.2-1.5-2.1-2.4-2.7z"
+              />
+              <path
+                fill="#68217A"
+                d="M10.7 95.3c.5.8 1.2 1.5 1.9 1.9l48.2 27.9c.8.5 1.9.7 3.1.7 1.2 0 2.3-.3 3.1-.7l48-27.9c1.7-1 2.9-3.5 2.9-5.4V36.1c0-.9-.1-1.9-.6-2.8l-106.6 62z"
+              />
+              <path
+                fill="#fff"
+                d="M85.3 76.1C81.1 83.5 73.1 88.5 64 88.5c-13.5 0-24.5-11-24.5-24.5s11-24.5 24.5-24.5c9.1 0 17.1 5 21.3 12.5l13-7.5c-6.8-11.9-19.6-20-34.3-20-21.8 0-39.5 17.7-39.5 39.5s17.7 39.5 39.5 39.5c14.6 0 27.4-8 34.2-19.8l-12.9-7.6zM97 66.2l.9-4.3h-4.2v-4.7h5.1L100 51h4.9l-1.2 6.1h3.8l1.2-6.1h4.8l-1.2 6.1h2.4v4.7h-3.3l-.9 4.3h4.2v4.7h-5.1l-1.2 6h-4.9l1.2-6h-3.8l-1.2 6h-4.8l1.2-6h-2.4v-4.7H97zm4.8 0h3.8l.9-4.3h-3.8l-.9 4.3z"
+              />
+            </svg>
+            <Typography color="white">C#/.NET</Typography>
+          </Box>
+          {/* Python */}
+          <Box
+            display="flex"
+            alignItems="center"
+            gap={1}
+            sx={{
+              flex: "1 1 200px",
+              maxWidth: "250px",
+              padding: 2,
+              backgroundColor: "rgba(255,255,255,0.05)",
+              borderRadius: 2,
+              transition: "all 0.3s ease",
+              "&:hover": {
+                backgroundColor: "rgba(255,255,255,0.1)",
+                transform: "scale(1.01)",
+                boxShadow: "0 2px 8px rgba(0,0,0,0.2)",
+              },
+            }}
+          >
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128">
+              <linearGradient
+                id="python-original-a"
+                gradientUnits="userSpaceOnUse"
+                x1="70.252"
+                y1="1237.476"
+                x2="170.659"
+                y2="1151.089"
+                gradientTransform="matrix(.563 0 0 -.568 -29.215 707.817)"
+              >
+                <stop offset="0" stop-color="#5A9FD4" />
+                <stop offset="1" stop-color="#306998" />
+              </linearGradient>
+              <linearGradient
+                id="python-original-b"
+                gradientUnits="userSpaceOnUse"
+                x1="209.474"
+                y1="1098.811"
+                x2="173.62"
+                y2="1149.537"
+                gradientTransform="matrix(.563 0 0 -.568 -29.215 707.817)"
+              >
+                <stop offset="0" stop-color="#FFD43B" />
+                <stop offset="1" stop-color="#FFE873" />
+              </linearGradient>
+              <path
+                fill="url(#python-original-a)"
+                d="M63.391 1.988c-4.222.02-8.252.379-11.8 1.007-10.45 1.846-12.346 5.71-12.346 12.837v9.411h24.693v3.137H29.977c-7.176 0-13.46 4.313-15.426 12.521-2.268 9.405-2.368 15.275 0 25.096 1.755 7.311 5.947 12.519 13.124 12.519h8.491V67.234c0-8.151 7.051-15.34 15.426-15.34h24.665c6.866 0 12.346-5.654 12.346-12.548V15.833c0-6.693-5.646-11.72-12.346-12.837-4.244-.706-8.645-1.027-12.866-1.008zM50.037 9.557c2.55 0 4.634 2.117 4.634 4.721 0 2.593-2.083 4.69-4.634 4.69-2.56 0-4.633-2.097-4.633-4.69-.001-2.604 2.073-4.721 4.633-4.721z"
+                transform="translate(0 10.26)"
+              />
+              <path
+                fill="url(#python-original-b)"
+                d="M91.682 28.38v10.966c0 8.5-7.208 15.655-15.426 15.655H51.591c-6.756 0-12.346 5.783-12.346 12.549v23.515c0 6.691 5.818 10.628 12.346 12.547 7.816 2.297 15.312 2.713 24.665 0 6.216-1.801 12.346-5.423 12.346-12.547v-9.412H63.938v-3.138h37.012c7.176 0 9.852-5.005 12.348-12.519 2.578-7.735 2.467-15.174 0-25.096-1.774-7.145-5.161-12.521-12.348-12.521h-9.268zM77.809 87.927c2.561 0 4.634 2.097 4.634 4.692 0 2.602-2.074 4.719-4.634 4.719-2.55 0-4.633-2.117-4.633-4.719 0-2.595 2.083-4.692 4.633-4.692z"
+                transform="translate(0 10.26)"
+              />
+              <radialGradient
+                id="python-original-c"
+                cx="1825.678"
+                cy="444.45"
+                r="26.743"
+                gradientTransform="matrix(0 -.24 -1.055 0 532.979 557.576)"
+                gradientUnits="userSpaceOnUse"
+              >
+                <stop offset="0" stop-color="#B8B8B8" stop-opacity=".498" />
+                <stop offset="1" stop-color="#7F7F7F" stop-opacity="0" />
+              </radialGradient>
+              <path
+                opacity=".444"
+                fill="url(#python-original-c)"
+                d="M97.309 119.597c0 3.543-14.816 6.416-33.091 6.416-18.276 0-33.092-2.873-33.092-6.416 0-3.544 14.815-6.417 33.092-6.417 18.275 0 33.091 2.872 33.091 6.417z"
+              />
+            </svg>
+
+            <Typography color="white">Python</Typography>
+          </Box>
+          {/* SQL */}
+          <Box
+            display="flex"
+            alignItems="center"
+            gap={1}
+            sx={{
+              flex: "1 1 200px",
+              maxWidth: "250px",
+              padding: 2,
+              backgroundColor: "rgba(255,255,255,0.05)",
+              borderRadius: 2,
+              transition: "all 0.3s ease",
+              "&:hover": {
+                backgroundColor: "rgba(255,255,255,0.1)",
+                transform: "scale(1.01)",
+                boxShadow: "0 2px 8px rgba(0,0,0,0.2)",
+              },
+            }}
+          >
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128">
+              <defs>
+                <radialGradient
+                  id="b"
+                  cx="9.36"
+                  cy="10.57"
+                  fx="9.36"
+                  fy="10.57"
+                  r="7.07"
+                  gradientTransform="matrix(73.03125 0 0 37.1875 29.797 56.535)"
+                >
+                  <stop offset="0" style="stop-color:#f2f2f2;stop-opacity:1" />
+                  <stop offset=".58" style="stop-color:#eee;stop-opacity:1" />
+                  <stop offset="1" style="stop-color:#e6e6e6;stop-opacity:1" />
+                </radialGradient>
+                <linearGradient
+                  id="a"
+                  gradientUnits="userSpaceOnUse"
+                  x1="2.59"
+                  y1="10.16"
+                  x2="15.41"
+                  y2="10.16"
+                  gradientTransform="scale(7.11111)"
+                >
+                  <stop offset="0" style="stop-color:#005ba1;stop-opacity:1" />
+                  <stop
+                    offset=".07"
+                    style="stop-color:#0060a9;stop-opacity:1"
+                  />
+                  <stop
+                    offset=".36"
+                    style="stop-color:#0071c8;stop-opacity:1"
+                  />
+                  <stop
+                    offset=".52"
+                    style="stop-color:#0078d4;stop-opacity:1"
+                  />
+                  <stop
+                    offset=".64"
+                    style="stop-color:#0074cd;stop-opacity:1"
+                  />
+                  <stop
+                    offset=".82"
+                    style="stop-color:#006abb;stop-opacity:1"
+                  />
+                  <stop offset="1" style="stop-color:#005ba1;stop-opacity:1" />
+                </linearGradient>
+              </defs>
+              <path
+                style="stroke:none;fill-rule:nonzero;fill:url(#a)"
+                d="M64 36.55c-25.172 0-45.582-7.109-45.582-16.495v87.89c0 9.032 20.055 16.356 44.941 16.5H64c25.172 0 45.582-7.113 45.582-16.5v-87.89c0 9.172-20.41 16.496-45.582 16.496Zm0 0"
+              />
+              <path
+                style="stroke:none;fill-rule:nonzero;fill:#e8e8e8;fill-opacity:1"
+                d="M109.582 20.055c0 9.172-20.41 16.496-45.582 16.496s-45.582-7.11-45.582-16.496c0-9.387 20.41-16.5 45.582-16.5s45.582 7.113 45.582 16.5"
+              />
+              <path
+                style="stroke:none;fill-rule:nonzero;fill:#50e6ff;fill-opacity:1"
+                d="M98.988 18.703c0 5.832-15.718 10.524-34.988 10.524s-34.988-4.692-34.988-10.524C29.012 12.871 44.73 8.25 64 8.25s34.988 4.691 34.988 10.453"
+              />
+              <path
+                style="stroke:none;fill-rule:nonzero;fill:#198ab3;fill-opacity:1"
+                d="M64 21.332a82.193 82.193 0 0 0-27.664 4.055A81.213 81.213 0 0 0 64 29.227a79.334 79.334 0 0 0 27.664-4.125A84.332 84.332 0 0 0 64 21.332Zm0 0"
+              />
+              <path
+                style="stroke:none;fill-rule:nonzero;fill:url(#b)"
+                d="M91.734 81.066V56.891h-6.402v29.367h17.496v-5.192ZM40.961 69.191a13.064 13.064 0 0 1-3.629-2.203 3.13 3.13 0 0 1-.852-2.277 2.418 2.418 0 0 1 1.067-2.133 4.847 4.847 0 0 1 2.988-.855 11.533 11.533 0 0 1 7.11 2.062v-6.113a18.236 18.236 0 0 0-7.11-1.137 11.67 11.67 0 0 0-7.754 2.414 7.68 7.68 0 0 0-2.984 6.332c0 3.625 2.273 6.469 7.11 8.602 1.57.668 3.05 1.527 4.41 2.562a2.982 2.982 0 0 1 1.066 2.274c0 .879-.426 1.699-1.137 2.207a5.786 5.786 0 0 1-3.203.781 11.801 11.801 0 0 1-7.75-2.988v6.613a15.411 15.411 0 0 0 7.61 1.707c2.98.176 5.933-.648 8.39-2.348a7.681 7.681 0 0 0 2.348-6.468 7.458 7.458 0 0 0-1.778-4.977 17.225 17.225 0 0 0-5.902-4.055Zm37.262 11.305a16.634 16.634 0 0 0 2.347-8.957A16.509 16.509 0 0 0 78.223 64a12.87 12.87 0 0 0-4.977-5.332 14.228 14.228 0 0 0-7.113-1.852 15.015 15.015 0 0 0-7.68 1.922A13.217 13.217 0 0 0 53.262 64a17.48 17.48 0 0 0-1.848 8.105 16.06 16.06 0 0 0 1.707 7.114 12.526 12.526 0 0 0 4.906 5.261 14.679 14.679 0 0 0 7.11 2.133l6.117 7.11h8.605l-8.75-7.82a12.736 12.736 0 0 0 7.114-5.407Zm-7.114-1.777a6.673 6.673 0 0 1-5.402 2.488 6.538 6.538 0 0 1-5.406-2.559 10.842 10.842 0 0 1-2.063-7.109 10.903 10.903 0 0 1 2.063-7.113 7.104 7.104 0 0 1 5.547-2.63 6.181 6.181 0 0 1 5.336 2.63 11.533 11.533 0 0 1 1.918 7.113 10.353 10.353 0 0 1-1.993 7.18Zm0 0"
+              />
+            </svg>
+
+            <Typography color="white">SQL</Typography>
+          </Box>
+          {/* Ingles B2 */}
           <Box
             display="flex"
             alignItems="center"
@@ -600,7 +800,7 @@ export default function DescripcionFormal() {
               icon={faLanguage}
               style={{ color: "rgb(255, 255, 255)", fontSize: "35px" }}
             />
-            <Typography color="white">Inglés B1</Typography>
+            <Typography color="white">Inglés B2</Typography>
           </Box>
         </Box>
       </Box>
