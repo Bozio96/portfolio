@@ -62,7 +62,7 @@ export default function DatosPersonales() {
             <Tooltip title="LinkedIn" arrow>
               <IconButton
                 component="a"
-                href="https://www.linkedin.com/in/rodrigo-bozio-a2838221b/"
+                href="https://www.linkedin.com/in/BozioRodrigo/"
                 target="_blank"
                 aria-label="LinkedIn"
                 sx={{ color: "#0e76a8" }}
