@@ -30,6 +30,13 @@ export default function Proyectos() {
       img: "https://res.cloudinary.com/dnfil5isx/image/upload/v1766284311/Captura_de_pantalla_164_qtp0ax.png",
 
     },
+        {
+      title: "Calculadora de iOS",
+      path: "https://github.com/Bozio96/Calculator",
+      desc: "Replica de la calculadora de iOS, con funcionalidades básicas en React Native",
+      img: "https://res.cloudinary.com/dnfil5isx/image/upload/v1766284567/9d02f086d69ddbd877c7646c4ab11176_hpjems.png",
+
+    },
 
 
     /*    {
