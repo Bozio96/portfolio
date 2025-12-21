@@ -17,17 +17,17 @@ export default function Proyectos() {
       desc: "Proyecto realizado sin React, css con Bootstrap y SASS",
       img: "https://res.cloudinary.com/dnfil5isx/image/upload/v1662515798/imagenes/logo_k84eyr.png"
     },
-    {
+/*     {
       title: "967Cerveteca E-Commerce",
       path: "https://bozio96.github.io/Bozio96-967-Cerveteca-EComerce/",
       desc: "E-Commerce creado en JS Vanilla sin React",
       img: "https://res.cloudinary.com/dnfil5isx/image/upload/v1662515798/imagenes/logo_k84eyr.png"
-    },
+    }, */
     {
-      title: "Sistema de ventas ABM genérico (...en proceso)",
-      path: "https://github.com/Bozio96/sistemaDeVentas",
-      desc: "Un sistema para manipular productos, clientes y ventas, típico de cualquier negocio, en formato web",
-      img: "https://res.cloudinary.com/dnfil5isx/image/upload/v1744817961/grunge-red-work-process-square-rubber-seal-stamp-white-background-grunge-red-work-process-square-rubber-seal-stamp-139592089_jgwibb.png",
+      title: "Sistema de ventas ABM para ferretería",
+      path: "https://tp-front-three.vercel.app",
+      desc: "Un sistema para manipular productos, clientes y ventas orientado a una ferretería, en formato web",
+      img: "https://res.cloudinary.com/dnfil5isx/image/upload/v1766284311/Captura_de_pantalla_164_qtp0ax.png",
 
     },
 
