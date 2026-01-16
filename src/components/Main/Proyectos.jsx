@@ -3,14 +3,14 @@ import ProyectCard from "./ProyectCard";
 
 export default function Proyectos() {
   const repos = [
-    {
+/*     {
       title: "2025-2050.com",
       path: "https://2025-2050.com",
       desc: "Desarrollo de frontend realizado para ",
       linkText: "MemoArx",
       linkUrl: "https://www.memoarx.com",
       img: "https://res.cloudinary.com/dnfil5isx/image/upload/v1744817569/WhatsApp_Image_2025-04-05_at_22.12.54_kzpnoj.jpg",
-    },
+    }, */
     {
       title: "967Cerveteca",
       path: "https://bozio96.github.io/967-Cerveteca-Bozio-Rodrigo/index.html",
